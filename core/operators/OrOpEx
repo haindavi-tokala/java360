@@ -1,0 +1,11 @@
+class OrOpEx
+{
+public static void main(string args[])
+  {
+   int a=5;
+   int b=3;
+   int c=0;
+   c=a|b;
+   System.out.println("a|b="+c);
+  } 
+}   
